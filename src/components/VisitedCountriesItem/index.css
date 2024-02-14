@@ -1,0 +1,30 @@
+.thumbnail {
+  width: 280px;
+  margin: 4px;
+  margin-bottom: 0;
+}
+
+.country-details-container {
+  margin-top: 0;
+  background-color: #1f1f2f;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 12px;
+  margin: 0 4px;
+}
+
+.country-name {
+  color: #f8fafc;
+  font-size: 15px;
+}
+
+.remove-btn {
+  background-color: transparent;
+  border: 1px solid #f8fafc;
+  border-radius: 4px;
+  color: #ffffff;
+  padding: 6px 11px;
+  cursor: pointer;
+}
